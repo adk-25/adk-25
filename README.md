@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @adk-25
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Ajinkya 👋
 
-<!---
-adk-25/adk-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer with 3+ years experience in Java, Spring Boot, Microservices, Kafka, and AWS.
+
+## Projects
+- Centralized Logging Framework
+- Healthcare Microservices System
+- Pizza Hut Clone
+
+## Tech Stack
+Java | Spring Boot | Kafka | AWS | Docker | React
+
+## Contact
+LinkedIn: <your-link>
+Email: ajinkyakorekar2512@gmail.com
