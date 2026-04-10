@@ -94,18 +94,6 @@
 - ☁️ **Zero-downtime deployment** on AWS EC2
 - 📋 REST APIs documented with Swagger · JUnit 5 tests for all service-layer methods
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adk-25&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adk-25&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adk-25&theme=github-dark-blue&hide_border=true"/>
-</p>
 
 ---
 
