@@ -19,8 +19,7 @@
 - ⚙️ 3+ years building scalable **Java & Spring Boot microservices** in production
 - 🔭 Currently working on: **Healthcare Microservices System** (Kafka + Redis + JWT + Docker)
 - 🌱 Learning: **AWS Solutions Architect** concepts & advanced Kubernetes
-- 📍 Based in **Wardha, Maharashtra** · Open to opportunities in **Pune**
-- 🏆 Recipient of the **ACE Employee Award** at Nissan Digital India LLP
+- 📍 Based in **Wardha, Maharashtra** ·
 
 ---
 
@@ -31,7 +30,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Micronaut](https://img.shields.io/badge/Micronaut-1A1A1A?style=flat-square&logo=micronaut&logoColor=white)
 
 ### Messaging & Data
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
@@ -55,7 +53,6 @@
 ### Testing & Observability
 ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78C257?style=flat-square&logo=java&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ---
@@ -102,8 +99,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajinkya-korekar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-korekar&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adk-25&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adk-25&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
