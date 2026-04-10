@@ -1,4 +1,4 @@
-# Hi, I'm Ajinkya 👋
+# Hi, I'm Ajinkya 
 
 Software Engineer with 3+ years experience in Java, Spring Boot, Microservices, Kafka, and AWS.
 
